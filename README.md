@@ -7,8 +7,12 @@ so ,i hope you guys enjoy this source code and i hope it will be useful to you a
 ---------------------------------------------
 i used these library in the app
 
-2.retrofit2
-3.Glide for set picture on the imageView
-4.Gson and Gson convert factory to serialized and deserialized code
-5.view model
-6.liveData
+1.retrofit2
+
+2.Glide for set picture on the imageView
+
+3.Gson and Gson convert factory to serialized and deserialized code
+
+4.view model
+
+5.liveData
